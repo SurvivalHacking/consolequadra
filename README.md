@@ -28,6 +28,10 @@ Video tutorial qui: https://youtu.be/PtBYJcpI7i4
 
 ---
 
+## ⚡️ Programmazione via WEB
+
+https://davidegatti.altervista.org/installaEsp32.php?progetto=ConsoleQuadra
+
 ## 🎛️ Schema pratico di assemblaggio
 
 ![Screenshot 2026-04-01 alle 22 39 46](https://github.com/user-attachments/assets/f46885ac-e75d-4e6d-8685-7b20f7fc0c4c)
