@@ -26,6 +26,10 @@ Video tutorial qui: https://youtu.be/PtBYJcpI7i4
 * Filamento ERYONE Galaxy Black: https://amzn.to/4rr35Zz
 * Gamepad BT (opzionale): https://s.click.aliexpress.com/e/_c4cyPYh9
 
+Il pannello LED durante le varie modalità di funzionamento potrebbe assorbire parecchio e se collegato al computer o ad un piccolo alimentatore potrebbe far resettare il dispositivo.
+Si consiglia di utilizzare un alimentatore da almeno 15W
+* Alimentatore 5V 25W: https://amzn.to/3QgJ4bb 
+
 ---
 
 ## ⚡️ Programmazione via WEB
