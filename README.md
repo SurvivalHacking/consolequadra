@@ -52,6 +52,7 @@ https://davidegatti.altervista.org/installaEsp32.php?progetto=ConsoleQuadra
 
 * 17/01/2026 V1.0 Versione iniziale.
 * 19/01/2026 V1.1 Adattamento per ESP32-WROOM-32D (pin modificati per compatibilità)
+* 04/05/2026 V1.2 Fix bug minori
 ---
 ## 🧾 Licenza
 
