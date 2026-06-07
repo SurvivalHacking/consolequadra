@@ -53,6 +53,14 @@ https://davidegatti.altervista.org/installaEsp32.php?progetto=ConsoleQuadra
 * 17/01/2026 V1.0 Versione iniziale.
 * 19/01/2026 V1.1 Adattamento per ESP32-WROOM-32D (pin modificati per compatibilità)
 * 04/05/2026 V1.2 Fix bug minori
+* 07/06/2026 V1.3 
+- Aggiunti 2 giochi Dragon e Frogger 
+- miglioramenti grafici dell interfaccia web
+- Sistemazione del WIFI
+- aggiunta musica in game tetris con preview
+- aggiunto popup di conferma reset wifi su interfaccia web
+- modificato il paddle di breakout
+ 
 ---
 ## 🧾 Licenza
 
